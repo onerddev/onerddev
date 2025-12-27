@@ -62,7 +62,7 @@ Estudo e pratico desenvolvimento web, programação geral, sistemas Linux e ambi
 ##  Social
 
 ###  Instagram
-[![Instagram](https://img.shields.io/badge/Instagram-@onerd.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/onerd.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-@onerd.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/emanuelfelipe.dev)
 
 ###  Discord Profile
 ![Discord](https://img.shields.io/badge/Discord-emanuel.xz0-5865F2?style=flat&logo=discord&logoColor=white)
