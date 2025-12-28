@@ -12,6 +12,8 @@
 
 <h1 align="center">Tecnologias</h1>
 
+
+
 ###
 
 <p align="center">Tecnologias com as quais trabalho e estudo<br><br>No front-end, domino HTML, CSS e JavaScript o suficiente para criar interfaces limpas, acessíveis e com interações que fluem naturalmente — sempre buscando aquele equilíbrio entre funcionalidade e elegância visual.<br><br>Para lógica mais robusta e back-end, Python e Java são minhas escolhas principais: estruturas claras, código legível e ferramentas que me permitem prototipar rápido ou escalar quando necessário.<br>Quando quero entender melhor o controle de memória ou precisar de performance crua, recorro ao C++ sem hesitar.<br><br>Tenho boa experiência com SQL — projetando schemas normalizados, escrevendo consultas eficientes e otimizando buscas que realmente fazem diferença em aplicações reais.<br><br>Meu ambiente de desenvolvimento gira em torno do VS Code, com Git e GitHub como aliados inseparáveis para versionamento e colaboração.<br>Me sinto completamente à vontade no Linux (inclusive com Kali Linux para explorar segurança) e domino o que preciso no Windows para projetos que exigem compatibilidade.<br><br>Além do código puro, gosto de unir software e hardware com Arduino em protótipos práticos, e uso Figma e Canva para dar vida visual aos projetos — porque uma boa ideia também merece ser apresentada com capricho.<br><br>Essas não são apenas ferramentas que “conheço”, mas sim as que escolhi porque me permitem transformar curiosidade em código funcional, eficiente e, quando possível, um pouco mais bonito que o necessário.<br>E o melhor de tudo: ainda tem um universo inteiro para explorar.</p>
