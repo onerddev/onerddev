@@ -1,3 +1,27 @@
+<div align="center">
+  <img height="400" src="https://i.ibb.co/zhYnvCNr/Onerd.png"  />
+</div>
+
+###
+
+<h6 align="center">Contatos</h6>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/onerddev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@onerddev0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="39" height="27" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/emanuelfelipe.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="center">Emanuel Felipe</h2>
 
 ###
@@ -7,6 +31,22 @@
 ###
 
 <h6 align="left">Sou o Emanuel Felipe. Tenho 13 anos e comecei a me interessar por tecnologia aos 8 anos. Nesse período, fiz dois cursos: um de robótica, realizado no Maker, e outro de tecnologia, no With, em Barueri. Esses cursos foram meu primeiro contato mais direto com computadores usando muito Arduino UNO e ChromeOS,  me adaptando a área de tecnologia.<br><br>Além dos cursos, também aprendi muitas coisas de forma autodidata, estudando por conta própria, explorando, testando e buscando entender melhor como tudo funciona. Gosto de aprender observando, praticando e aprofundando o conhecimento aos poucos, no meu próprio ritmo. Além de designer autodidata de banners e materiais visuais.<br><br>Hoje continuo focado em aprender, evoluir e construir uma base sólida, sempre com curiosidade e vontade de crescer na área de tecnologia.</h6>
+
+###
+
+<h6 align="center">IDES</h6>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="27" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="27" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="27" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="27" alt="clion logo"  />
+</div>
 
 ###
 
@@ -46,22 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="27" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo"  />
-</div>
-
-###
-
-<h6 align="center">IDES</h6>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="27" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="27" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="27" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="27" alt="clion logo"  />
 </div>
 
 ###
