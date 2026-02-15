@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co/zhYnvCNr/Onerd.png"  />
+  <img height="400" src="https://i.ibb.co/9kzm3j2c/Onerd-2-removebg-preview.png"  />
 </div>
 
 ###
 
-<h6 align="center">Contatos</h6>
+<h2 align="center">Emanuel Felipe</h2>
 
 ###
 
@@ -19,10 +19,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="center">Emanuel Felipe</h2>
 
 ###
 
@@ -74,15 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="27" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="27" alt="git logo"  />
-</div>
-
-###
-
-<h6 align="center">Works</h6>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="27" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo"  />
