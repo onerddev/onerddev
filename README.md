@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/onerddev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@onerddev0" target="_blank">
+  <a href="https://www.youtube.com/@onerd_dev0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="39" height="27" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/emanuelfelipe.dev" target="_blank">
